@@ -1,5 +1,5 @@
 {
-  "name": "react-native-mqtt",
+  "name": "react-native-maple-mqtt",
   "version": "0.1.0",
   "description": "MQTT client for react-native",
   "main": "index.js",
